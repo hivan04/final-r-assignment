@@ -18,6 +18,34 @@ The script must:
 
 Overall, found that Cross-MA was the most profitable strategy and the following show a few of the time-series plots from the project.
 
+<div style="background-color:white; padding:15px; border-radius:10px;">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/hivan04/pfe-trading-strats/blob/main/images/bb-eval.png" width="400"><br>
+      <b>Bollinger Bands Evaluation</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/hivan04/pfe-trading-strats/blob/main/images/cma-eval.png" width="400"><br>
+      <b>CMA Strategy Evaluation</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/hivan04/pfe-trading-strats/blob/main/images/bb-bs-points.png" width="400"><br>
+      <b>Bollinger Bands Buy/Sell Points</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/hivan04/pfe-trading-strats/blob/main/images/cma-crossover.png" width="400"><br>
+      <b>CMA Crossover Strategy</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 <div align="center">
 <table>
   <tr>
